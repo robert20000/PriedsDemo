@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CustomerListWithoutCustomerId</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6f5e79f-8e31-446c-bfa0-069d84928cda</testCaseGuid>
+</TestCaseEntity>

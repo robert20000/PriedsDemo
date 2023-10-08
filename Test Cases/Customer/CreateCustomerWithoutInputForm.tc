@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateCustomerWithoutInputForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb062e53-bf0b-4364-8d60-b74499b8be3c</testCaseGuid>
+</TestCaseEntity>

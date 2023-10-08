@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginWrongUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96af152f-3acb-4cdf-8634-d0f4d364c1a4</testCaseGuid>
+</TestCaseEntity>

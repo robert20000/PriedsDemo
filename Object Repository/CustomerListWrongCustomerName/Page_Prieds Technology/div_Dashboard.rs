@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>8eac38cb-7c30-4d0f-9339-6d8e914b37ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_dashboard > span.mat-button-wrapper > div > div.menu-title-transition > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='menu_dashboard']/span/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3626ad37-5a7f-4ab1-9a80-9a6ea422b179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Dashboard </value>
+      <webElementGuid>d802fdc6-6f85-4ef5-b2a8-59f86d4bdacc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_dashboard&quot;)/span[@class=&quot;mat-button-wrapper&quot;]/div[1]/div[@class=&quot;menu-title-transition&quot;]/div[1]</value>
+      <webElementGuid>de5eab85-afe7-481d-b896-7cf78d00dd51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='menu_dashboard']/span/div/div/div</value>
+      <webElementGuid>3dbc84ae-71ca-4766-9b83-30d82af2774a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketplace'])[1]/following::div[5]</value>
+      <webElementGuid>94cf3d85-3d54-428e-bead-7cefbbe2d717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Documents'])[1]/following::div[10]</value>
+      <webElementGuid>8e7e44f1-d402-4108-a7e7-a784f3f81891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/preceding::div[4]</value>
+      <webElementGuid>3181f7b4-7ef8-41b4-a7e5-c3922fdf9dd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salesman: REYNER'])[1]/preceding::div[8]</value>
+      <webElementGuid>a2034e99-ae08-41c6-b2e1-4821f2939f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dashboard']/parent::*</value>
+      <webElementGuid>25494340-cf91-4904-af18-8890c67610a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-menu-element[8]/button/span/div/div/div</value>
+      <webElementGuid>e68df656-e2bb-4f08-b631-c304b852557d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Dashboard ' or . = ' Dashboard ')]</value>
+      <webElementGuid>3600272d-f1ef-4f72-86d6-80f4b6a07ab2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

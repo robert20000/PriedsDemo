@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Master</name>
+   <tag></tag>
+   <elementGuidId>abff6a02-b861-4891-b623-dd919c9acd94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Master > span.mat-button-wrapper > div > div.menu-title-transition > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='Master']/span/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2c438203-db8a-462a-8a13-b15d0bd84b0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Master </value>
+      <webElementGuid>49b550c9-b4cd-4c22-9756-6d069bf21fa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Master&quot;)/span[@class=&quot;mat-button-wrapper&quot;]/div[1]/div[@class=&quot;menu-title-transition&quot;]/div[1]</value>
+      <webElementGuid>69acf5ef-72c6-4728-aaf7-6cfd19dfd257</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='Master']/span/div/div/div</value>
+      <webElementGuid>da38bb4e-de1a-47f1-b4b9-efdd106e06d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warehouse'])[1]/following::div[5]</value>
+      <webElementGuid>043264c8-4ee4-4d1c-a730-1973f06a60d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales'])[1]/following::div[10]</value>
+      <webElementGuid>84d8901a-6364-4d9a-952b-7101c38bd5e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchasing'])[1]/preceding::div[4]</value>
+      <webElementGuid>93848e52-89f3-4e16-b01a-f46e0a90e86c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounting'])[1]/preceding::div[9]</value>
+      <webElementGuid>45165a37-f56f-4644-94e2-49c535ea044f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Master']/parent::*</value>
+      <webElementGuid>3b3ef1be-1867-41db-9e7e-54dde6c1f9f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-menu-element[3]/button/span/div/div/div</value>
+      <webElementGuid>ac3c849f-743f-4dd7-bcd8-dda52bb24aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Master ' or . = ' Master ')]</value>
+      <webElementGuid>8f58bc75-d25c-43df-95c0-0f70b0f7cd9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

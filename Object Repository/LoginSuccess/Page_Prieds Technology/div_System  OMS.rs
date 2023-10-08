@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_System  OMS</name>
+   <tag></tag>
+   <elementGuidId>6c3eefc0-678c-4dce-b318-ae3194c251fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='button-system-systemchanger']/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#button-system-systemchanger > span.mat-button-wrapper > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>69eb9e36-bc51-4f0b-86d2-ac3cfaad3f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> System : OMS </value>
+      <webElementGuid>cec925be-2ebc-4dc5-b7ac-274266c5c07d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;button-system-systemchanger&quot;)/span[@class=&quot;mat-button-wrapper&quot;]/div[1]</value>
+      <webElementGuid>90990cfe-3efe-4864-8005-1e201d01b3e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='button-system-systemchanger']/span/div</value>
+      <webElementGuid>999616ba-9f60-4fdc-81d2-b0a6f43177ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location : SITE A'])[1]/following::div[3]</value>
+      <webElementGuid>b5f04a51-ac6d-4862-ad2d-82dddf3221af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salesman: REYNER'])[1]/following::div[6]</value>
+      <webElementGuid>0b9eeff0-c77f-453e-ae64-cf55726062a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun, 8 Oct 2023 10:42 AM'])[1]/preceding::div[7]</value>
+      <webElementGuid>9e8486ed-be40-4b53-8d89-6cbaff1efa94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='System : OMS']/parent::*</value>
+      <webElementGuid>5456ef4d-39b7-447e-b6fc-ad89433e88bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-system-changer/button/span/div</value>
+      <webElementGuid>d33d9cb9-a5cb-48eb-8d50-7b610ac21b8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' System : OMS ' or . = ' System : OMS ')]</value>
+      <webElementGuid>ca428443-2cdf-4a94-aff6-c61974a4dd24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

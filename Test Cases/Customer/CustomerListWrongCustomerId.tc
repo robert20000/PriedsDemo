@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CustomerListWrongCustomerId</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e78ea45a-007d-45a5-a058-83be448b9bc1</testCaseGuid>
+</TestCaseEntity>
